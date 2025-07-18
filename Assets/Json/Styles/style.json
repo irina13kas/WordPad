@@ -1,0 +1,10 @@
+{
+  "FontColor": "Red",
+  "FontSize": 24,
+  "IsBold": true,
+  "IsCursive": true,
+  "IsUnderlined": false,
+  "IsHighlight": false,
+  "IsLightMode": true,
+  "FontStyle": "Times New Roman"
+}

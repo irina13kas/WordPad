@@ -1,0 +1,13 @@
+﻿<Window x:Class="WordPad_Kasianova.LoadWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WordPad_Kasianova"
+        mc:Ignorable="d"
+        Title="LoadWindow" Height="300" Width="275">
+    <StackPanel Margin="10">
+        <ListBox x:Name="FileListBox" Width="250" Height="200" Background="AliceBlue"/>
+        <Button Content="Загрузить" Background="BlanchedAlmond" Width="250" Click="OnLoadClick" Margin="0,10,0,0" />
+    </StackPanel>
+</Window>

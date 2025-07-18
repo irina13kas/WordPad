@@ -1,0 +1,172 @@
+{
+  "Title": "example",
+  "Text": [
+    {
+      "Paragraphs": [
+        {
+          "Style": {
+            "FontColor": "#FF000000",
+            "FontSize": 18,
+            "IsBold": true,
+            "IsCursive": true,
+            "IsUnderlined": false,
+            "IsHighlight": false,
+            "IsLightMode": true,
+            "FontStyle": "Times New Roman"
+          },
+          "Text": "\u041F\u0440\u0438\u0432\u0435\u0442!"
+        },
+        {
+          "Style": {
+            "FontColor": "#FF000000",
+            "FontSize": 18,
+            "IsBold": true,
+            "IsCursive": true,
+            "IsUnderlined": false,
+            "IsHighlight": false,
+            "IsLightMode": true,
+            "FontStyle": "Times New Roman"
+          },
+          "Text": " "
+        },
+        {
+          "Style": {
+            "FontColor": "#FF800080",
+            "FontSize": 28,
+            "IsBold": true,
+            "IsCursive": true,
+            "IsUnderlined": true,
+            "IsHighlight": true,
+            "IsLightMode": true,
+            "FontStyle": "Times New Roman"
+          },
+          "Text": ""
+        },
+        {
+          "Style": {
+            "FontColor": "#FF800080",
+            "FontSize": 28,
+            "IsBold": true,
+            "IsCursive": true,
+            "IsUnderlined": true,
+            "IsHighlight": true,
+            "IsLightMode": true,
+            "FontStyle": "Times New Roman"
+          },
+          "Text": ""
+        },
+        {
+          "Style": {
+            "FontColor": "#FF800080",
+            "FontSize": 28,
+            "IsBold": true,
+            "IsCursive": true,
+            "IsUnderlined": true,
+            "IsHighlight": true,
+            "IsLightMode": true,
+            "FontStyle": "Times New Roman"
+          },
+          "Text": ""
+        }
+      ]
+    },
+    {
+      "Paragraphs": [
+        {
+          "Style": {
+            "FontColor": "#FF000000",
+            "FontSize": 18,
+            "IsBold": true,
+            "IsCursive": false,
+            "IsUnderlined": true,
+            "IsHighlight": false,
+            "IsLightMode": true,
+            "FontStyle": "Times New Roman"
+          },
+          "Text": "\u041C\u0435\u043D\u044F \u0437\u043E\u0432\u0443\u0442 \u0418\u0440\u0430"
+        }
+      ]
+    },
+    {
+      "Paragraphs": [
+        {
+          "Style": {
+            "FontColor": "#FF000000",
+            "FontSize": 18,
+            "IsBold": false,
+            "IsCursive": false,
+            "IsUnderlined": true,
+            "IsHighlight": true,
+            "IsLightMode": true,
+            "FontStyle": "Times New Roman"
+          },
+          "Text": "\u042F \u0443\u0447\u0443\u0441\u044C \u043D\u0430 3 \u043A\u0443\u0440\u0441\u0435 \u041F\u0440\u0438\u0418\u043D\u0444\u0430"
+        }
+      ]
+    },
+    {
+      "Paragraphs": [
+        {
+          "Style": {
+            "FontColor": "#FFFF0000",
+            "FontSize": 28,
+            "IsBold": false,
+            "IsCursive": false,
+            "IsUnderlined": true,
+            "IsHighlight": true,
+            "IsLightMode": true,
+            "FontStyle": "Times New Roman"
+          },
+          "Text": "Hello World!!!!!"
+        }
+      ]
+    },
+    {
+      "Paragraphs": [
+        {
+          "Style": {
+            "FontColor": "#FF800080",
+            "FontSize": 28,
+            "IsBold": true,
+            "IsCursive": true,
+            "IsUnderlined": true,
+            "IsHighlight": false,
+            "IsLightMode": true,
+            "FontStyle": "Times New Roman"
+          },
+          "Text": "\u041E\u041E\u041F"
+        }
+      ]
+    },
+    {
+      "Paragraphs": [
+        {
+          "Style": {
+            "FontColor": "Black",
+            "FontSize": 18,
+            "IsBold": false,
+            "IsCursive": false,
+            "IsUnderlined": false,
+            "IsHighlight": false,
+            "IsLightMode": true,
+            "FontStyle": "Courier New"
+          },
+          "Text": "[image:-5312490399438320899_121.jpg]"
+        }
+      ]
+    },
+    {
+      "Paragraphs": []
+    }
+  ],
+  "NoteStyles": {
+    "FontColor": "Purple",
+    "FontSize": 28,
+    "IsBold": true,
+    "IsCursive": true,
+    "IsUnderlined": true,
+    "IsHighlight": true,
+    "IsLightMode": true,
+    "FontStyle": "Times New Roman"
+  }
+}
